@@ -1,7 +1,13 @@
+<p align="center"> 
+  <img src=" https://capsule-render.vercel.app/api?text=Hai Semuanya!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+</p>
+
 # <p align="center"> <b> 👋 ABOUT ME 👋
 
 
 <p align="center"> </b> Nafisya is an active student in academic and non-academic. She is visionary, highly motivate, innovative, and well read. She loves to learn new things and gain new experiences.  She is interested in data processing, analytical, math understanding, and programming. Strongly skilled in time management, proven by her capabilities to manage her academic and organization life.
+
+# <p align="center"> <b> 👋 ABOUT ME 👋
 <!--
 **nafisyaaa/nafisyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
