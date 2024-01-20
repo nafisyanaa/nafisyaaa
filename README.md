@@ -8,11 +8,16 @@
 <p align="center"> </b> Nafisya is an active student in academic and non-academic. She is visionary, highly motivate, innovative, and well read. She loves to learn new things and gain new experiences.  She is interested in data processing, analytical, math understanding, and programming. Strongly skilled in time management, proven by her capabilities to manage her academic and organization life.
 
 
-
-
 # <p align="center"> <b> 👨‍💻 INTEREST AND TALENT 👨‍💻
 
 <p align="center"> </b> Data Processing | Analytical | Math Understanding | Programming | Problem Solving | Communication | Team working | Leadership
+
+
+# <p align="center"> <b> 🛠 PROFFESIONAL SKILLS 🛠
+
+<p align="center"> </b> Microsoft Office | R Programming | Python | Wolfram Mathematica | Google Colab | SPSS | EViews | SQL
+
+
 <!--
 **nafisyaaa/nafisyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
