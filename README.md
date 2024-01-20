@@ -1,6 +1,6 @@
-<p align="center", bold> 👋 **ABOUT ME** 👋
+<p align="center"> 👋 **ABOUT ME** 👋
 
-Nafisya is an active student in academic and non-academic. She is visionary, highly motivate, innovative, and well read. She loves to learn new things and gain new experiences.  She is interested in data processing, analytical, math understanding, and programming. Strongly skilled in time management, proven by her capabilities to manage her academic and organization life.
+<p align="center"> Nafisya is an active student in academic and non-academic. She is visionary, highly motivate, innovative, and well read. She loves to learn new things and gain new experiences.  She is interested in data processing, analytical, math understanding, and programming. Strongly skilled in time management, proven by her capabilities to manage her academic and organization life.
 <!--
 **nafisyaaa/nafisyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
