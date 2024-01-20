@@ -15,7 +15,7 @@
 
 # <p align="center"> <b> 🛠 PROFFESIONAL SKILLS 🛠
 
-<p align="center"> </b> Microsoft Office | R Programming | Python | Wolfram Mathematica | Google Colab | SPSS | EViews | SQL
+<p align="center"> </b> Microsoft Office | R Programming | Python | Wolfram Mathematica | Latex | SPSS | EViews | SQL
 
 
 <!--
