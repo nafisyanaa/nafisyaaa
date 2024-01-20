@@ -10,7 +10,7 @@
 
 
 
-## <p align="center"> <b> 👋 INTEREST AND TALENT 👋
+# <p align="center"> <b> 👨‍💻 INTEREST AND TALENT 👨‍💻
 
 <p align="center"> </b> Data Processing | Analytical | Math Understanding | Programming | Problem Solving | Communication | Team working | Leadership
 <!--
