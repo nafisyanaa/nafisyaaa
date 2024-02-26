@@ -5,7 +5,7 @@
 # <p align="center"> <b> 👋 ABOUT ME 👋
 
 
-<p align="center"> </b> Nafisya is an active student in academic and non-academic. She is visionary, highly motivate, innovative, and well read. She loves to learn new things and gain new experiences. Strongly skilled in time management, proven by her capabilities to manage her academic and organization life.
+<p align="center"> </b> Nafisya was an active student in academic and non-academic. She is visionary, highly motivate, innovative, and well read. She loves to learn new things and gain new experiences. Strongly skilled in time management, proven by her capabilities to manage her academic and organization life.
 
 
 # <p align="center"> <b> 👨‍💻 INTEREST AND TALENT 👨‍💻
@@ -15,7 +15,7 @@
 
 # <p align="center"> <b> 🛠 PROFFESIONAL SKILLS 🛠
 
-<p align="center"> </b> Microsoft Office | R Programming | Python | Wolfram Mathematica | Latex | SPSS | EViews | SQL
+<p align="center"> </b> Microsoft Office | Python | R Programming | SPSS | EViews | SQL Database | Latex | Wolfram Mathematica
 
 
 <!--
