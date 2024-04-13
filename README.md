@@ -5,7 +5,7 @@
 # <p align="center"> <b> 👋 ABOUT ME 👋
 
 
-<p align="center"> </b> Nafisya was an active student in academic and non-academic. She is visionary, highly motivate, innovative, and well read. She loves to learn new things and gain new experiences. Strongly skilled in time management, proven by her capabilities to manage her academic and organization life.
+<p align="center"> </b> Nafisya is a fresh graduate that was active in academic and non-academic activities. She is visionary, highly motivate, innovative, and well read. She loves to learn new things and gain new experiences. Strongly skilled in time management, proven by her capabilities to manage her academic and organization life.
 
 
 # <p align="center"> <b> 👨‍💻 INTEREST AND TALENT 👨‍💻
